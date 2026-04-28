@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Ana Leh Hena |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 28, 2026 |
+| Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-leh-hena/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي الليلة دي بتناديك
+> في عيوني نار الشوق بتلاقيك
+> قرب مني خلي روحي فيك
+> أنا هنا بس عشان أدفيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
